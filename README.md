@@ -2,16 +2,16 @@
 <h3 align="center">A passionate Software Developer from Azerbaijan</h3>
 
 <div align="center">
-  <a href="https://u8views.com/github/ilkinguluzade"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
+  <a href="https://u8views.com/github/glzzd"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/ilkinjs"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="ilkinguluzade" /></a>
+  <a href="https://buymeacoffee.com/ilkinjs"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="glzzd" /></a>
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilkinguluzade&theme=tokyo-night)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glzzd&theme=tokyo-night)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkinguluzade&theme=onedark&row=2&column=3" alt="ilkinguluzade" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glzzd&theme=onedark&row=2&column=3" alt="glzzd" /></a> </p>
 
 - 🔭 I’m currently working in **Secret Agency** 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/guluzvde), [instagram](https://www.instagram.com/1lkin.js) or by [mail](mailto:theglzdilkin@gmail.com)
@@ -19,8 +19,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/guluzvde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkinguluzade" height="30" width="40" /></a>
-  <a href="https://instagram.com/1lkin.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilkinguluzade" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/guluzvde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glzzd" height="30" width="40" /></a>
+  <a href="https://instagram.com/1lkin.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="glzzd" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -41,6 +41,6 @@
 
 <div align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&theme=dark" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=glzzd&theme=dark" alt="Streak Stats" />
     </a>
 </div>
