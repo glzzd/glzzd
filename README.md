@@ -11,7 +11,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glzzd&theme=tokyo-night)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glzzd&theme=onedark&row=2&column=3" alt="glzzd" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=glzzd&theme=onedark&row=2&column=3" alt="glzzd" /></a> </p>
 
 - 🔭 I’m currently working in **Secret Agency** 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/guluzvde), [instagram](https://www.instagram.com/1lkin.js) or by [mail](mailto:theglzdilkin@gmail.com)
