@@ -41,6 +41,6 @@
 
 <div align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=glzzd&theme=dark" alt="Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=glzzd&theme=dark" alt="Streak Stats" />
     </a>
 </div>
