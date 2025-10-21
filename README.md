@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Software Developer from Azerbaijan</h3>
 
 <div align="center">
- <a href="https://u8views.com/github/glzzd"><img src="https://u8views.com/api/v1/github/profiles/121420582/views/day-week-month-total-count.svg"></a>
-</div>
-
-<div align="center">
   <a href="https://u8views.com/github/glzzd"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
 
