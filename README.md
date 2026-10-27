@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/guluzvde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/1lkin.js"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://instagram.com/guluzadeilkin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/guluzvde"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:theglzdilkin@gmail.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=00C9FF" alt="Email"/></a>
+  <a href="mailto:glzzdilkin@gmail.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=00C9FF" alt="Email"/></a>
   <a href="https://buymeacoffee.com/ilkinjs"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/></a>
 </p>
 
