@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/glzzd">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=620&lines=%3E+console.log(%22Salam%2C+d%C3%BCnya!+%F0%9F%87%A6%F0%9F%87%BF%22);%3E+Building+products%2C+not+just+pages.;%3E+Node.js+%7C+React+%7C+Go+%7C+C%23;%3E+Shipping+e-commerce%2C+ERP+%26+realtime+apps." alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=620&lines=%3E+console.log(%22Hello%2C+world!+%F0%9F%87%A6%F0%9F%87%BF%22);%3E+Building+products%2C+not+just+pages.;%3E+Node.js+%7C+React+%7C+Go+%7C+C%23;%3E+Shipping+e-commerce%2C+ERP+%26+realtime+apps." alt="typing"/>
   </a>
 </p>
 
